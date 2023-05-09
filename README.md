@@ -9,6 +9,8 @@ Users can click on a timeblock to enter an event and save it by clicking the "sa
 This is a web-based application that can be accessed via a web browser. Simply open the application's URL in your preferred web browser to start using it.
 
 ## Usage
+![Screenshot (16)](https://github.com/AnferneePage/Calendar/assets/127454292/48a5b1df-e122-4467-ad83-6acf6cd8341e)
+
 To use the daily planner, follow these steps:
 
 Open the application in your preferred web browser.
